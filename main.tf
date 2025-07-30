@@ -22,3 +22,6 @@ resource azurerm_resource_group "rg2" {
   name     = "gauri_rg2"
   location = "West Europe"
 }
+#hello
+#world
+#howareyou?
