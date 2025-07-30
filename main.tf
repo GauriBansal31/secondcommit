@@ -17,3 +17,8 @@ resource azurerm_resource_group "rg1" {
   name     = "gauri_rg1"
   location = "West Europe"
 }
+
+resource azurerm_resource_group "rg2" {
+  name     = "gauri_rg2"
+  location = "West Europe"
+}
